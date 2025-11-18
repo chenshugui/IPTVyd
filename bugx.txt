@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "versionId": 99,
+    "updateStatus": 2,
+    "versionCode": 7040500,
+    "versionName": "9.9.999",
+    "channelName": "main",
+    "appScheme": null,
+    "appUrl": null,
+    "uploadTime": "2025-11-18 21:11:25",
+    "modifyContent": "，新版优化了体验。",
+    "downloadUrl": "",
+    "apkSize": 122470,
+    "apkMd5": "d1a6af078f3511474ef88363ba3ca027",
+    "appKey": "wenxiaobai.android"
+  }
+}
